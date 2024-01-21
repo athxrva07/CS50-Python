@@ -1,2 +1,3 @@
-lowercase=input("Uppercase: ")
-print("Lowercase: "+lowercase.lower())
+message=input("Message: ")
+message=message.lower()
+print("Lowercase:", message)
