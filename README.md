@@ -9,4 +9,5 @@
 * Playback
 * Tip
 
+### [Week 1: Problem Set 1](https://cs50.harvard.edu/python/2022/psets/0/](https://github.com/athxrva07/CS50-Python/tree/8a088bd3eeab7fea1fae3d1b25192461eb48267d/Problem%20Set%200)https://github.com/athxrva07/CS50-Python/tree/8a088bd3eeab7fea1fae3d1b25192461eb48267d/Problem%20Set%200](https://github.com/athxrva07/CS50-Python/tree/b9ff2c73bbc9ef90fe2a72b5087b16e606606994/Problem%20Set%201)https://github.com/athxrva07/CS50-Python/tree/b9ff2c73bbc9ef90fe2a72b5087b16e606606994/Problem%20Set%201)
 
