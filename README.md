@@ -1,5 +1,4 @@
-# [CS50P](https://cs50.harvard.edu/python/2022/): Introduction to Programming with Python
-
+# [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 ## My Solutions for all the problem sets.
 I will keep updating this as I proceed with the course.
 
