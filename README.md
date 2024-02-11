@@ -11,6 +11,7 @@ I will keep updating this as I proceed with the course.
 * Tip
 
 ### [Week 1: Problem Set 1](https://github.com/athxrva07/CS50-Python/tree/b9ff2c73bbc9ef90fe2a72b5087b16e606606994/Problem%20Set%201)
-* Bank
-* Deep
-* Extensions
+* Deep Thought
+* Home Federal Savings Bank
+* File Extensions
+* Math Interpreter
