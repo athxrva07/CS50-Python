@@ -14,3 +14,5 @@ I will keep updating this as I proceed with the course.
 * Home Federal Savings Bank
 * File Extensions
 * Math Interpreter
+
+### [Week 2: Problem Set 2](https://github.com/athxrva07/CS50-Python/tree/f27e675afeefce56cf56434b04a8557b4cd73b70/Problem%20Set%202)
